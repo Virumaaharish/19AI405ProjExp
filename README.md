@@ -1,4 +1,6 @@
 # Implement a Sudoku Solver From Scratch
+# Name : VIRUMAA HARISH M
+# REG NO : 212223230246
 ## Steps to solve the Sudoku Puzzle in Python
 <ol>
   <li>In this method for solving the sudoku puzzle, first, we assign the size of the 2D matrix to a variable M (M*M).</li>
@@ -70,11 +72,6 @@ if __name__ == "__main__":
 
 ## Output :
 <img width="347" height="297" alt="370832240-e18ffc40-9ab3-49aa-b200-19584cb1ac3e" src="https://github.com/user-attachments/assets/feb5b6b7-da15-47df-9436-21257999ee7b" />
-
-~~~
-Name: Virumaa harish M
-Reg.No:212223230246
-~~~
 
 ## Result:
 Thus the python program to implement a sudoko solver from scratch is executed sucessfully.
